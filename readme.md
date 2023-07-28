@@ -11,7 +11,7 @@ The script has a setting called `countOfPagesScrolled`, which determines the num
 **Important Note:**
 Please use this script responsibly and be aware of LinkedIn's terms of service. Automated actions on LinkedIn may violate their policies, and LinkedIn might impose restrictions or bans on accounts engaging in aggressive automation. Be cautious and use the script only within reasonable limits.
 
-**Readme.md for LinkedIn Connect - Automated Invitations Script**
+
 
 # LinkedIn Connect - Automated Invitations Script
 
