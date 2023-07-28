@@ -1,18 +1,3 @@
-**LinkedIn Connect - Automated Invitations Script**
-
-**How to Use:**
-1. Go to LinkedIn and log in to your account.
-2. Press the key combination: Ctrl + Shift + I (or open Chrome DevTools manually).
-3. Copy and paste the provided JavaScript code from the GitHub repository (https://github.com/dhruvalgupta2003/Linkedin-Connect-Automation) into the console.
-
-**Settings:**
-The script has a setting called `countOfPagesScrolled`, which determines the number of pages the script will scroll down to load more profiles. By default, it is set to 5 pages, but you can change it to any other number according to your preference. Note that the maximum number of contacts the script can send invitations to is limited to 3000.
-
-**Important Note:**
-Please use this script responsibly and be aware of LinkedIn's terms of service. Automated actions on LinkedIn may violate their policies, and LinkedIn might impose restrictions or bans on accounts engaging in aggressive automation. Be cautious and use the script only within reasonable limits.
-
-
-
 # LinkedIn Connect - Automated Invitations Script
 
 This JavaScript script allows you to automate the process of sending connection invitations on LinkedIn. It is designed to be used within the browser console (Chrome DevTools) and sends connection requests to people matching your search criteria.
