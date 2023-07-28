@@ -21,7 +21,7 @@ The script includes a setting called `countOfPagesScrolled`, which determines th
 This script is for educational purposes only and is not affiliated with or endorsed by LinkedIn. The use of this script is at your own risk, and the script author assumes no responsibility for any consequences resulting from its use.
 
 **Contributing:**
-If you have suggestions for improvements or find any issues, feel free to open an issue or submit a pull request on the [github/linkedinAutomationScript](https://github.com/yourusername/linkedinAutomationScript) repository.
+If you have suggestions for improvements or find any issues, feel free to open an issue or submit a pull request on the [github/linkedinAutomationScript](https://github.com/dhruvalgupta2003/Linkedin-Connect-Automation) repository.
 
 **License:**
 This project is licensed under the [MIT License](LICENSE).
